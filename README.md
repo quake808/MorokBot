@@ -20,6 +20,6 @@
 - - - - -
 <b> Контакты: </b>
 
-Телеграм - https://t.me/dsh1337 <br>
+Телеграм - https://t.me/emoc0re <br>
 Уголок Хакера - https://t.me/hackblog <br>
 BTC - 1GTNqHZdbbkGFRx1ULk4QNkCVjHumo78rn
